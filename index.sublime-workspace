@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"marginTop"
+			],
+			[
+				"laundr",
+				"laundryAssign"
+			],
+			[
+				"pric",
+				"price_list〔variable〕"
+			],
+			[
+				"target",
+				"targetUrl〔variable〕"
+			],
+			[
+				"targe",
+				"targetUrl〔variable〕"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"border-co",
+				"border-color: 〔property〕"
+			],
+			[
+				"back",
+				"background-color: 〔property〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 199.0,
+		"last_filter": "match",
+		"selected_items":
+		[
+			[
+				"match",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"match ",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"syntax bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html ",
+				"Set Syntax: HTML"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mat",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"javasc",
+				"Javascript Beautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"matc",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"late",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/danielpark/Documents/workspace/CSCi435-ODBR.github.io/index.html",
+		"/Users/danielpark/Documents/workspace/CSCi435-ODBR/.git/MERGE_MSG",
+		"/Users/danielpark/Documents/workspace/CSCi435-ODBR/.git/COMMIT_EDITMSG",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/22230f5c-4a1e-4310-8664-f2e16003ad43/var/www/html/benny2/js/materialize.js",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/22230f5c-4a1e-4310-8664-f2e16003ad43/var/www/html/benny2/css/material.css",
+		"/Users/danielpark/Documents/workspaces/StarCraft/README.md",
+		"/Users/danielpark/Desktop/CompsecHW2.tex",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/7f87302e-fdfe-4431-8ddc-a2897583f057/var/www/html/benny2/index.html",
+		"/Users/danielpark/Documents/benny2/.git/COMMIT_EDITMSG",
+		"/Users/danielpark/Documents/benny2/.git/MERGE_MSG",
+		"/Users/danielpark/Documents/workspace/CompSecHW2/.git/MERGE_MSG",
+		"/Users/danielpark/Documents/workspace/interview/index.html",
+		"/Users/danielpark/Documents/workspaces2/react-components/inbox/src/css/.master.scss.swp",
+		"/Users/danielpark/Documents/workspaces2/react-components/.git/MERGE_MSG",
+		"/Users/danielpark/Documents/workspaces2/mailbox/server.config.js",
+		"/Users/danielpark/Library/Application Support/Übersicht/widgets/pretty-weather.widget/index.coffee",
+		"/Users/danielpark/.vimrc",
+		"/Users/danielpark/Documents/workspaces/tori/ToriAnswer.js",
+		"/Users/danielpark/Documents/workspaces/YHacks/crate.css",
+		"/Users/danielpark/Documents/workspaces/YHacks/.git/MERGE_MSG",
+		"/Users/danielpark/Documents/workspaces/YHacks/swing.js",
+		"/Users/danielpark/Documents/workspaces/YHacks/react-list.js",
+		"/Users/danielpark/Documents/workspaces/YHacks/README.md",
+		"/Users/danielpark/Documents/workspaces/YHacks/index.html",
+		"/Users/danielpark/Documents/workspaces/YHacks/examples/index.js",
+		"/Users/danielpark/Documents/workspaces/YHacks/examples/index.es6",
+		"/Users/danielpark/Documents/workspaces/YHacks/disabled.html",
+		"/Users/danielpark/Documents/workspaces/YHacks/index.jsx",
+		"/Users/danielpark/Downloads/infinite-scroll/style.css",
+		"/Users/danielpark/Documents/workspaces/YHacks/lodash.js",
+		"/Users/danielpark/Documents/workspaces/infinite-scroll/jquery.infinitescroll.js",
+		"/Users/danielpark/Documents/workspaces/jscroll/jquery.jscroll.js",
+		"/Users/danielpark/Documents/workspaces/jscroll/jquery.jscroll.min.js",
+		"/Users/danielpark/Desktop/scroll.js",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/967300b3-74e8-41a8-a433-f8923773b3c7/home/f85/tathomas/os/currentVersion/nachos2/userprog/exception.cc",
+		"/Users/danielpark/Documents/workspaces/nativemap/index.ios.js",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ae24ab64-1f62-42ec-8f6e-07a5a7b47fe9/home/f85/dhpark01/420matlab/digits.m",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ae24ab64-1f62-42ec-8f6e-07a5a7b47fe9/home/f85/dhpark01/420matlab/train_nn.m",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ae24ab64-1f62-42ec-8f6e-07a5a7b47fe9/home/f85/dhpark01/420matlab/xvalid.m",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ae24ab64-1f62-42ec-8f6e-07a5a7b47fe9/home/f85/dhpark01/420matlab/mean0_std1.m",
+		"/Users/danielpark/Desktop/Quiz 2.css",
+		"/Users/danielpark/Desktop/Quiz 2.html",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ea9e5c4a-1909-4c26-9e96-3083af189995/home/f85/tathomas/zzz/nachos1/threads/laundromat.cc",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ea9e5c4a-1909-4c26-9e96-3083af189995/home/f85/tathomas/zzz/nachos1/threads/semlaundromat.cc",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ea9e5c4a-1909-4c26-9e96-3083af189995/home/f85/tathomas/zzz/nachos1/threads/Makefile",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ea9e5c4a-1909-4c26-9e96-3083af189995/home/f85/tathomas/zzz/nachos1/Makefile.common",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ea9e5c4a-1909-4c26-9e96-3083af189995/home/f85/tathomas/zzz/nachos1/Makefile.dep",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ea9e5c4a-1909-4c26-9e96-3083af189995/home/f85/tathomas/zzz/nachos1/threads/laundromat.h",
+		"/private/var/folders/c5/xz3x_wfn6kj6dws2j425fn8w0000gn/T/ea9e5c4a-1909-4c26-9e96-3083af189995/home/f85/tathomas/zzz/nachos1/threads/synch.cc",
+		"/Users/danielpark/Documents/FallSemester2015/csci420/hw1.tex",
+		"/Users/danielpark/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/danielpark/Documents/workspaces/mcc/test3.py",
+		"/Users/danielpark/Documents/workspaces/mcc/test2.py",
+		"/Users/danielpark/Desktop/target.jpg",
+		"/Users/danielpark/Desktop/walmart.jpg",
+		"/Users/danielpark/Documents/workspaces/Mercury/index.php",
+		"/Users/danielpark/Desktop/test.py",
+		"/Users/danielpark/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/danielpark/Desktop/test.html",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/views/layout.jade",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/views/index.jade",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/public/javascripts/login.js",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/package.json",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/models/account.js",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/views/login.jade",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/.git/MERGE_MSG",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/node_modules/mongoose/node_modules/ms/test/support/jquery.js",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/routes/index.js",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/public/stylesheets/sass/login.scss",
+		"/Users/danielpark/Documents/workspaces/orbit-ui/routes/passport.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class",
+			"font-color",
+			"check",
+			"renderVar",
+			"examples",
+			"scroll",
+			"scroll'",
+			"annotation",
+			"90",
+			"latitu",
+			"mapRegion",
+			"e.",
+			"Change",
+			"Proptype",
+			"region:",
+			"region",
+			"nativemap",
+			"here",
+			"you",
+			"your",
+			"True",
+			"w0_range",
+			"wdot",
+			"Submit",
+			"laundro",
+			"dirmana",
+			"laun",
+			"prodc",
+			"dir",
+			"laundro",
+			"dirmanag",
+			"laundro",
+			"dirmanager",
+			"man",
+			"dir",
+			"laund",
+			"laundo",
+			"prodcon",
+			"dirmanager",
+			"name",
+			"LOCKS",
+			"items-list",
+			"add-item",
+			"items-",
+			"input2",
+			"_number",
+			"date",
+			"map",
+			"badList",
+			"backgroundCOlor",
+			"return",
+			"h5",
+			"logo",
+			"appStarted",
+			"appstarted",
+			"connected",
+			"bluetooth_conne",
+			"connected",
+			"bluetooth_connection_call",
+			"connection_ser",
+			"bluetoot_icon",
+			"bluetoo",
+			"BLUE",
+			"VIBE",
+			"update_te",
+			"os",
+			"3",
+			"3000",
+			"passport_lo",
+			"passport",
+			"process.env",
+			"litening on",
+			"3000",
+			"app.set",
+			"passport",
+			"mongoose",
+			"path",
+			"passport",
+			"app.po",
+			"24px",
+			"24",
+			"family",
+			"routes",
+			"index"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"color"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
